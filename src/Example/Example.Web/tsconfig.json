@@ -1,0 +1,11 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "ES6"
+  },
+  "exclude": [
+    "bin",
+    "obj"
+  ]
+}
